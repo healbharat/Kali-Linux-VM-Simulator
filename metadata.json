@@ -1,0 +1,5 @@
+{
+  "name": "Kali Linux VM Simulator",
+  "description": "An interactive web-based terminal that simulates a Kali Linux environment. Users can enter commands and receive realistic, AI-generated responses, mimicking the experience of a real virtual machine.",
+  "requestFramePermissions": []
+}
